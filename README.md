@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills<br>🤝 I’m looking for help with system design<br>🌱 I’m currently learning C++<br>💬 Ask me about Python<br>⚡ Fun fact (I do not know how to center a div)
+🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning C++/x86 Assembly<br>💬 Ask me about Python<br>⚡ Fun fact (I do not know how to center a div)
 
 
 ## 🌐 Socials:
